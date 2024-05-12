@@ -1,4 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.Text.Json.Serialization;
+using System.ComponentModel.DataAnnotations.Schema;
 namespace LibraryApiWebApp.Models
 {
     public class Movie
@@ -9,8 +11,10 @@ namespace LibraryApiWebApp.Models
         }
         public int Id { get; set; }
         public string name { get; set; }
-        public int CategoryId { get; set; }
-        public virtual Category category { get; set; }
+        public int? CategoryId { get; set; }
+        [ForeignKey("CategoryId")]
+        [JsonIgnore]
+        public virtual Category? category { get; set; }
         public virtual ICollection<Ticket> Tickets { get; set; }
     }
 }

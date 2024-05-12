@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|c:\\users\\denis\\source\\repos\\libraryapiwebapp\\libraryapiwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|solutionrelative:libraryapiwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|c:\\users\\denis\\source\\repos\\libraryapiwebapp\\libraryapiwebapp\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|solutionrelative:libraryapiwebapp\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|c:\\users\\denis\\source\\repos\\libraryapiwebapp\\libraryapiwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|solutionrelative:libraryapiwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|c:\\users\\denis\\source\\repos\\libraryapiwebapp\\libraryapiwebapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|solutionrelative:libraryapiwebapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|c:\\users\\denis\\source\\repos\\libraryapiwebapp\\libraryapiwebapp\\models\\librariapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|solutionrelative:libraryapiwebapp\\models\\librariapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|c:\\users\\denis\\source\\repos\\libraryapiwebapp\\libraryapiwebapp\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|solutionrelative:libraryapiwebapp\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|c:\\users\\denis\\source\\repos\\libraryapiwebapp\\libraryapiwebapp\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|solutionrelative:libraryapiwebapp\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|c:\\users\\denis\\source\\repos\\libraryapiwebapp\\libraryapiwebapp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|solutionrelative:libraryapiwebapp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|c:\\users\\denis\\source\\repos\\libraryapiwebapp\\libraryapiwebapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|solutionrelative:libraryapiwebapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|c:\\users\\denis\\source\\repos\\libraryapiwebapp\\libraryapiwebapp\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|solutionrelative:libraryapiwebapp\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|c:\\users\\denis\\source\\repos\\libraryapiwebapp\\libraryapiwebapp\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|solutionrelative:libraryapiwebapp\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|c:\\users\\denis\\source\\repos\\libraryapiwebapp\\libraryapiwebapp\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|solutionrelative:libraryapiwebapp\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|c:\\users\\denis\\source\\repos\\libraryapiwebapp\\libraryapiwebapp\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,6 +37,58 @@
     {
       "AbsoluteMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|c:\\users\\denis\\source\\repos\\libraryapiwebapp\\libraryapiwebapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|solutionrelative:libraryapiwebapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|c:\\users\\denis\\source\\repos\\libraryapiwebapp\\libraryapiwebapp\\models\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|solutionrelative:libraryapiwebapp\\models\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|c:\\users\\denis\\source\\repos\\libraryapiwebapp\\libraryapiwebapp\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|solutionrelative:libraryapiwebapp\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|c:\\users\\denis\\source\\repos\\libraryapiwebapp\\libraryapiwebapp\\models\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|solutionrelative:libraryapiwebapp\\models\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|c:\\users\\denis\\source\\repos\\libraryapiwebapp\\libraryapiwebapp\\models\\librariapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|solutionrelative:libraryapiwebapp\\models\\librariapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|c:\\users\\denis\\source\\repos\\libraryapiwebapp\\libraryapiwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|solutionrelative:libraryapiwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|c:\\users\\denis\\source\\repos\\libraryapiwebapp\\libraryapiwebapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|solutionrelative:libraryapiwebapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|c:\\users\\denis\\source\\repos\\libraryapiwebapp\\libraryapiwebapp\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|solutionrelative:libraryapiwebapp\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|c:\\users\\denis\\source\\repos\\libraryapiwebapp\\libraryapiwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|solutionrelative:libraryapiwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|c:\\users\\denis\\source\\repos\\libraryapiwebapp\\libraryapiwebapp\\models\\ticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|solutionrelative:libraryapiwebapp\\models\\ticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|c:\\users\\denis\\source\\repos\\libraryapiwebapp\\libraryapiwebapp\\models\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|solutionrelative:libraryapiwebapp\\models\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|c:\\users\\denis\\source\\repos\\libraryapiwebapp\\libraryapiwebapp\\models\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|solutionrelative:libraryapiwebapp\\models\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|c:\\users\\denis\\source\\repos\\libraryapiwebapp\\libraryapiwebapp\\migrations\\20240506081641_migration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|solutionrelative:libraryapiwebapp\\migrations\\20240506081641_migration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|c:\\users\\denis\\source\\repos\\libraryapiwebapp\\libraryapiwebapp\\libraryapiwebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9BC164B4-9D49-4CA6-99BE-6457CB498D74}|LibraryApiWebApp\\LibraryApiWebApp.csproj|solutionrelative:libraryapiwebapp\\libraryapiwebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,65 +106,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\appsettings.json",
-              "RelativeDocumentMoniker": "LibraryApiWebApp\\appsettings.json",
-              "ToolTip": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\appsettings.json",
-              "RelativeToolTip": "LibraryApiWebApp\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-04T13:33:20.241Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LibrariAPIContext.cs",
-              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Models\\LibrariAPIContext.cs",
-              "RelativeDocumentMoniker": "LibraryApiWebApp\\Models\\LibrariAPIContext.cs",
-              "ToolTip": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Models\\LibrariAPIContext.cs",
-              "RelativeToolTip": "LibraryApiWebApp\\Models\\LibrariAPIContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "LibraryApiWebApp\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "LibraryApiWebApp\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAcwGQAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T13:27:49.409Z",
+              "WhenOpened": "2024-05-06T07:54:33.114Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Program.cs",
-              "RelativeDocumentMoniker": "LibraryApiWebApp\\Program.cs",
-              "ToolTip": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Program.cs",
-              "RelativeToolTip": "LibraryApiWebApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T17:27:29.116Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "LibraryApiWebApp\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Models\\Category.cs",
-              "RelativeToolTip": "LibraryApiWebApp\\Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T18:12:26.019Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Movie.cs",
               "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Models\\Movie.cs",
               "RelativeDocumentMoniker": "LibraryApiWebApp\\Models\\Movie.cs",
               "ToolTip": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Models\\Movie.cs",
               "RelativeToolTip": "LibraryApiWebApp\\Models\\Movie.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-02T18:10:39.438Z",
               "EditorCaption": ""
@@ -116,25 +133,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Ticket.cs",
-              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Models\\Ticket.cs",
-              "RelativeDocumentMoniker": "LibraryApiWebApp\\Models\\Ticket.cs",
-              "ToolTip": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Models\\Ticket.cs",
-              "RelativeToolTip": "LibraryApiWebApp\\Models\\Ticket.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T18:08:31.402Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Payment.cs",
               "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Models\\Payment.cs",
               "RelativeDocumentMoniker": "LibraryApiWebApp\\Models\\Payment.cs",
               "ToolTip": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Models\\Payment.cs",
               "RelativeToolTip": "LibraryApiWebApp\\Models\\Payment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAIAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-02T18:07:09.141Z",
               "EditorCaption": ""
@@ -142,15 +146,238 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "LibraryApiWebApp\\Controllers\\PaymentsController.cs",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "LibraryApiWebApp\\Controllers\\PaymentsController.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAmwHUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T07:57:47.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "LibraryApiWebApp\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "LibraryApiWebApp\\Controllers\\MoviesController.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAcwGsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:01:36.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "LibraryApiWebApp\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "LibraryApiWebApp\\Controllers\\CustomersController.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAmwGEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T07:56:45.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "LibraryApiWebApp\\Models\\Customer.cs",
               "ToolTip": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Models\\Customer.cs",
               "RelativeToolTip": "LibraryApiWebApp\\Models\\Customer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-02T18:04:22.598Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "LibraryApiWebApp\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Models\\Ticket.cs",
+              "RelativeToolTip": "LibraryApiWebApp\\Models\\Ticket.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA3wA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T18:08:31.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Models\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "LibraryApiWebApp\\Models\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Models\\CategoryDTO.cs",
+              "RelativeToolTip": "LibraryApiWebApp\\Models\\CategoryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T14:55:06.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "LibraryApiWebApp\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Models\\Category.cs",
+              "RelativeToolTip": "LibraryApiWebApp\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T18:12:26.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "LibraryApiWebApp\\Controllers\\TicketsController.cs",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "LibraryApiWebApp\\Controllers\\TicketsController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAcwF4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T08:00:01.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MovieDTO.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Models\\MovieDTO.cs",
+              "RelativeDocumentMoniker": "LibraryApiWebApp\\Models\\MovieDTO.cs",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Models\\MovieDTO.cs",
+              "RelativeToolTip": "LibraryApiWebApp\\Models\\MovieDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T14:56:49.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LibrariAPIContext.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Models\\LibrariAPIContext.cs",
+              "RelativeDocumentMoniker": "LibraryApiWebApp\\Models\\LibrariAPIContext.cs",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Models\\LibrariAPIContext.cs",
+              "RelativeToolTip": "LibraryApiWebApp\\Models\\LibrariAPIContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T13:27:49.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryApiWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Program.cs",
+              "RelativeToolTip": "LibraryApiWebApp\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:27:29.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibraryApiWebApp\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "LibraryApiWebApp\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T21:06:38.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LibraryApiWebApp\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "LibraryApiWebApp\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T20:19:45.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryApiWebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\appsettings.json",
+              "RelativeToolTip": "LibraryApiWebApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-04T13:33:20.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CustomerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Models\\CustomerDTO.cs",
+              "RelativeDocumentMoniker": "LibraryApiWebApp\\Models\\CustomerDTO.cs",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Models\\CustomerDTO.cs",
+              "RelativeToolTip": "LibraryApiWebApp\\Models\\CustomerDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T14:56:22.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TicketDTO.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Models\\TicketDTO.cs",
+              "RelativeDocumentMoniker": "LibraryApiWebApp\\Models\\TicketDTO.cs",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Models\\TicketDTO.cs",
+              "RelativeToolTip": "LibraryApiWebApp\\Models\\TicketDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T14:58:27.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PaymentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Models\\PaymentDTO.cs",
+              "RelativeDocumentMoniker": "LibraryApiWebApp\\Models\\PaymentDTO.cs",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Models\\PaymentDTO.cs",
+              "RelativeToolTip": "LibraryApiWebApp\\Models\\PaymentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T14:57:46.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240506081641_migration1.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Migrations\\20240506081641_migration1.cs",
+              "RelativeDocumentMoniker": "LibraryApiWebApp\\Migrations\\20240506081641_migration1.cs",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\Migrations\\20240506081641_migration1.cs",
+              "RelativeToolTip": "LibraryApiWebApp\\Migrations\\20240506081641_migration1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T08:16:42.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LibraryApiWebApp.csproj",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\LibraryApiWebApp.csproj",
+              "RelativeDocumentMoniker": "LibraryApiWebApp\\LibraryApiWebApp.csproj",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\LibraryApiWebApp.csproj",
+              "RelativeToolTip": "LibraryApiWebApp\\LibraryApiWebApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-06T07:47:31.967Z"
             }
           ]
         }
