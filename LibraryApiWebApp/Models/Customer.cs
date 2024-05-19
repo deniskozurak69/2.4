@@ -1,6 +1,7 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Microsoft.EntityFrameworkCore;
 namespace LibraryApiWebApp.Models
 {
+    [Index(nameof(Username), IsUnique = true)]
     public class Customer
     {
         public Customer()
@@ -8,8 +9,9 @@ namespace LibraryApiWebApp.Models
             Payments = new List<Payment>();
         }
         public int Id { get; set; }
-        public string username { get; set; }
-        public string password { get; set; }
+        
+        public string Username { get; set; }
+        public string Password { get; set; }
         public virtual ICollection<Payment> Payments { get; set; }
     }
 }

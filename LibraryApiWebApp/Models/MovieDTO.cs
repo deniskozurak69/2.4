@@ -1,6 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
-using System.Text.Json.Serialization;
-namespace LibraryApiWebApp.Models
+﻿namespace LibraryApiWebApp.Models
 {
     public class MovieDTO
     {

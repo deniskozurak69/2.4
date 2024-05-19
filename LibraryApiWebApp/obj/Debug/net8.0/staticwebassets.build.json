@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SyXRV24DMNNwt4FsWtyIfJ/eWieTnBpEviZMRkOOCsA=",
+  "Hash": "YOakxIEiryFIJZ2oIlxRGrQheOQtSH25sSqi9CnBNVQ=",
   "Source": "LibraryApiWebApp",
   "BasePath": "_content/LibraryApiWebApp",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\wwwroot\\Index.html",
+      "SourceId": "LibraryApiWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\wwwroot\\",
+      "BasePath": "_content/LibraryApiWebApp",
+      "RelativePath": "Index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Index.html"
     },
     {
       "Identity": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\wwwroot\\js\\site.js",

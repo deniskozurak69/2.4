@@ -1,5 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
-namespace LibraryApiWebApp.Models
+﻿namespace LibraryApiWebApp.Models
 {
     public class TicketDTO
     {

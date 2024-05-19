@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\LibraryApiWebApp.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\wwwroot\\Index.html",
+      "PackagePath": "staticwebassets\\Index.html"
+    },
+    {
       "Id": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

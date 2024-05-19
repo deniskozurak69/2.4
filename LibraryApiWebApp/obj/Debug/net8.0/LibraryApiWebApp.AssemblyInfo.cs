@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LibraryApiWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c3e68f4eb9486126c93404469f3237070b31306")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b032ae8a56c79f065ba57e134e28630ea219db8b")]
 [assembly: System.Reflection.AssemblyProductAttribute("LibraryApiWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LibraryApiWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
