@@ -10,8 +10,8 @@
     <h1>Informatics-2021-Lab2 Library</h1>
     <h3>Add Category</h3>
     <form action="javascript:void(0);" method="POST" onsubmit="addCategory()">
-        <input type="text" id="add-name" placeholder="New Category">
-        <input type="text" id="add-description" placeholder="New Description Category">
+        <input type="text" id="add-name" placeholder="new category" size="20">
+        <input type="text" id="add-description" placeholder="new description" size="20">
         <input type="submit" value="Add">
     </form>
 
@@ -19,8 +19,8 @@
         <h3>Edit</h3>
         <form action="javascript:void(0);" onsubmit="updateCategory()">
             <input type="hidden" id="edit-id">
-            <input type="text" id="edit-name">
-            <input type="text" id="edit-description">
+            <input type="text" id="edit-name" size="20">
+            <input type="text" id="edit-description" size="20">
             <input type="submit" value="Save">
             <a onclick="closeInput()" aria-label="Close">&#10006;</a>
         </form>
@@ -29,11 +29,15 @@
     <p id="counter"></p>
 
     <table>
-        <tr>
-            <th>Name</th>
-            <th>Description</th>
-        </tr>
-        <tbody id="categories"></tbody>
+        <thead>
+            <tr>
+                <th style="padding-right: 100px; margin-right: 100px">Name</th>
+                <th style="padding-right: 100px; margin-right: 100px">Description</th>
+            </tr>
+        </thead>
+        <tbody id="categories">
+            <!-- Categories will be dynamically populated here -->
+        </tbody>
     </table>
 
     <script src="js/lab.js" asp-append-version="true"></script>

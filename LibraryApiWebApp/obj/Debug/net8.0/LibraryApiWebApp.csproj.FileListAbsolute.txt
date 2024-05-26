@@ -245,3 +245,9 @@ C:\Users\denis\source\repos\LibraryApiWebApp\LibraryApiWebApp\bin\Debug\net8.0\z
 C:\Users\denis\source\repos\LibraryApiWebApp\LibraryApiWebApp\obj\Debug\net8.0\LibraryApiWebApp.sourcelink.json
 C:\Users\denis\source\repos\LibraryApiWebApp\LibraryApiWebApp\bin\Debug\net8.0\Castle.Core.dll
 C:\Users\denis\source\repos\LibraryApiWebApp\LibraryApiWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\denis\source\repos\LibraryApiWebApp\LibraryApiWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\denis\source\repos\LibraryApiWebApp\LibraryApiWebApp\bin\Debug\net8.0\Moq.dll
+C:\Users\denis\source\repos\LibraryApiWebApp\LibraryApiWebApp\bin\Debug\net8.0\xunit.abstractions.dll
+C:\Users\denis\source\repos\LibraryApiWebApp\LibraryApiWebApp\bin\Debug\net8.0\xunit.assert.dll
+C:\Users\denis\source\repos\LibraryApiWebApp\LibraryApiWebApp\bin\Debug\net8.0\xunit.core.dll
+C:\Users\denis\source\repos\LibraryApiWebApp\LibraryApiWebApp\bin\Debug\net8.0\xunit.execution.dotnet.dll

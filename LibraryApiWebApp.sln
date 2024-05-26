@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryApiWebApp", "LibraryApiWebApp\LibraryApiWebApp.csproj", "{9BC164B4-9D49-4CA6-99BE-6457CB498D74}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryApiWebApp", "LibraryApiWebApp\LibraryApiWebApp.csproj", "{9BC164B4-9D49-4CA6-99BE-6457CB498D74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryApiWebApp.Tests", "LibraryApiWebApp.Tests\LibraryApiWebApp.Tests.csproj", "{F04ACF55-39E4-467E-98AC-B1A9E6E80E20}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{9BC164B4-9D49-4CA6-99BE-6457CB498D74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BC164B4-9D49-4CA6-99BE-6457CB498D74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BC164B4-9D49-4CA6-99BE-6457CB498D74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F04ACF55-39E4-467E-98AC-B1A9E6E80E20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F04ACF55-39E4-467E-98AC-B1A9E6E80E20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F04ACF55-39E4-467E-98AC-B1A9E6E80E20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F04ACF55-39E4-467E-98AC-B1A9E6E80E20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

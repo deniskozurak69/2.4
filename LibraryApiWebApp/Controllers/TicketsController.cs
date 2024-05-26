@@ -98,14 +98,6 @@ namespace LibraryApiWebApp.Controllers
             await _context.SaveChangesAsync();
             return CreatedAtAction("GetTicket", new { id = ticket.Id }, ticket);
         }
-        /*public async Task<ActionResult<Ticket>> PostTicket(Ticket ticket)
-        {
-            _context.Tickets.Add(ticket);
-            await _context.SaveChangesAsync();
-
-            return CreatedAtAction("GetTicket", new { id = ticket.Id }, ticket);
-        }*/
-
         // DELETE: api/Tickets/5
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteTicket(int id)

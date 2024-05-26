@@ -9,6 +9,14 @@
       "PackagePath": "staticwebassets\\Index.html"
     },
     {
+      "Id": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\wwwroot\\css\\bootstrap_state.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap_state.css"
+    },
+    {
+      "Id": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\wwwroot\\css\\bootstrap_state.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap_state.min.css"
+    },
+    {
       "Id": "C:\\Users\\denis\\source\\repos\\LibraryApiWebApp\\LibraryApiWebApp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

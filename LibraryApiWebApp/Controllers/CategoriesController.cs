@@ -19,10 +19,7 @@ namespace LibraryApiWebApp.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Category>>> GetCategories()
         {
-            var categories = await _context.Categories.Include(p => p.Movies).
-                Select(p => new Category { Id = p.Id, name = p.name, description = p.description, Movies=p.Movies })
-                .ToListAsync();
-            return categories;
+            return await _context.Categories.Include(p => p.Movies).ToListAsync();
         }
 
         // GET: api/Categories/5
@@ -38,6 +35,7 @@ namespace LibraryApiWebApp.Controllers
 
             return category;
         }
+
         // PUT: api/Categories/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPut("{id}")]
@@ -89,9 +87,9 @@ namespace LibraryApiWebApp.Controllers
             {
                 return NotFound();
             }
+
             var moviesToDelete = _context.Movies.Where(a => a.CategoryId == id);
-            var ticketsToDelete = _context.Tickets
-                    .Where(c => moviesToDelete.Any(a => a.Id == c.MovieId));
+            var ticketsToDelete = _context.Tickets.Where(c => moviesToDelete.Any(a => a.Id == c.MovieId));
             _context.Tickets.RemoveRange(ticketsToDelete);
             _context.Movies.RemoveRange(moviesToDelete);
             _context.Categories.Remove(category);
