@@ -5,7 +5,7 @@ namespace LibraryApiWebApp.Models
     {
         public LibrariAPIContext() : base()
         {
-            // Additional initialization if needed
+            
         } 
         public virtual DbSet<Category> Categories { get; set; }
         public virtual DbSet<Customer> Customers { get; set; }
