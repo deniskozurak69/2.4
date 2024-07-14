@@ -1,0 +1,34 @@
+image: mcr.microsoft.com/dotnet/sdk:8.0
+
+variables:
+  RESOURCE_GROUP: "DefaultResourceGroup-EUS"
+  APP_NAME: "LibraryApiWebApp"
+  LOCATION: "eastus" 
+
+stages:
+  - build
+  - test
+  - deploy
+
+before_script:
+  - dotnet restore
+
+build:
+  stage: build
+  script:
+    - dotnet build --no-restore
+
+test:
+  stage: test
+  script:
+    - dotnet test --no-restore
+
+deploy:
+  stage: deploy
+  script:
+    - echo "Deploying to Azure..."
+    - az login --service-principal -u $AZURE_CLIENT_ID -p $AZURE_CLIENT_SECRET --tenant $AZURE_TENANT_ID
+    - az webapp up --resource-group $RESOURCE_GROUP --name $APP_NAME --location $LOCATION
+  environment: production
+  only:
+    - main
